@@ -1,0 +1,10 @@
+/media/human/AE66A1DB66A1A495/Work/Github/Current/demo_async/magic/target/debug/deps/allo_isolate-def952cf2dad12fe.rmeta: /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/lib.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/dart_array.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/into_dart.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/into_dart_extra.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/chrono.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/ffi.rs
+
+/media/human/AE66A1DB66A1A495/Work/Github/Current/demo_async/magic/target/debug/deps/allo_isolate-def952cf2dad12fe.d: /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/lib.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/dart_array.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/into_dart.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/into_dart_extra.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/chrono.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/ffi.rs
+
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/lib.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/dart_array.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/into_dart.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/into_dart_extra.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/chrono.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.14-beta.3/src/ffi.rs:

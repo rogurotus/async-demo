@@ -1,0 +1,11 @@
+/media/human/AE66A1DB66A1A495/Work/Github/Current/demo_async/magic/target/debug/deps/futures_task-56b9b91c212fa708.rmeta: /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs
+
+/media/human/AE66A1DB66A1A495/Work/Github/Current/demo_async/magic/target/debug/deps/futures_task-56b9b91c212fa708.d: /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs /home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs
+
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs:
+/home/human/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs:
